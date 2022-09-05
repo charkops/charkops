@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haris Kopsacheilis</h1>
 <h3 align="center">A Full Stack Software Engineer from Greece</h3>
 
-- 🌱 I’m currently learning **Golang**
-
 - 📫 How to reach me **charis.kopsacheilis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
